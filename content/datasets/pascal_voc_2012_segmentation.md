@@ -1,4 +1,4 @@
-# Dataset title
+# PASCAL VOC 2012 — Segmentation
 
 ### Description
 

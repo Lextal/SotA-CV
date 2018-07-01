@@ -1,15 +1,14 @@
-# Problem title
+# Image classification
 
 ## Description
 
-Brief introduction to the problem.
-
-Describe the usual evaluation procedure, main metrics and specify,
-if needed, the metrics for each dataset.
+TODO: add a description
 
 ## Results
 
-### Dataset 1
+### ImageNet
+
+TODO: add dataset description
 
 [Dataset description](datasets/...)
 
@@ -17,7 +16,9 @@ if needed, the metrics for each dataset.
 |:------|:-----:|:--------|:------|:-----|
 | Model name | 0.5 | [link to the weights of a trained model]() | [paper](https://arxiv.org/abs/0000.00000) | [link to implementation]() |
 
-### Dataset 2
+### PASCAL VOC Classification
+
+TODO: add dataset description
 
 [Dataset description](datasets/...)
 
@@ -27,5 +28,5 @@ if needed, the metrics for each dataset.
 
 ### Resources
 
-This is an appropriate section for adding links to relevant material,
-e.g. books, courses, blog posts, etc.
+* [ImageNet Large Scale Visual Recognition Competition](http://www.image-net.org/challenges/LSVRC/)
+

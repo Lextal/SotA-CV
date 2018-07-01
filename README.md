@@ -5,19 +5,47 @@ in computer vision, facilitating the research effort in deep learning.
 
 ### Contents
 
-* [Image recognition](content/image_recognition.md)
+
+* Scene recognition
+* Action recognition
+* Shape recognition
+* Pose estimation
 * [Object detection](content/object_detection.md)
-* [Face recognition](content/face_recognition.md)
-* [Human keypoints and parts detection](content/human_keypoints_and_parts_detection.md)
-* [Action recognition and tracking](content/action_recognition_and_tracking.md)
-* [Pose estimation](content/pose_estimation.md)
-* [Image restoration and enhancement](content/image_restoration_and_enhancement.md)
+* [Image classification](content/image_classification.md)
+* [Semi-supervised learning](content/semi_supervised_learning.md)
+* [Weakly supervised learning](content/weakly_supervised_learning.md)
 * [Semantic segmentation](content/semantic_segmentation.md)
-* [Instance segmentation](content/instance_segmentation.md)
-* [Visual question answering and captioning](content/visual_qa_and_captioning.md)
-* [Scene estimation](content/scene_estimation.md)
-* [Depth estimation](content/depth_estimation.md)
-* [Optical character recognition](content/ocr.md)
+* Instance segmentation
+* Face recognition
+* Face alignment
+* Human parsing
+* Keypoint and landmark detection
+* [Domain adaptation](content/domain_adaptation.md)
+* [Image superresolution](content/image_superresolution.md)
+* Saliency detection
+* Structure from motion
+* Image captioning
+* Surface reconstruction
+* Inverse graphics
+* Object localization
+* Optical character recognition
+* Image representations and feature learning
+* [Alpha matting](content/alpha_matting.md)
+* [Adversarial attacks and defences](content/adversarial_attacks_and_defences.md)
+* Medical imaging
+* Image co-segmentation
+* Visual tracking
+* Visual question answering
+* Optical flow estimation
+* Depth estimation
+* Image retrieval
+* Stereo matching
+* Image synthesis
+* Structure learning
+* Image inpainting
+* Trajectory prediction
+* Image warping
+
 
 ### Contributions
 
