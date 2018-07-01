@@ -29,3 +29,8 @@ to draw the attention of contributors.
 ### Instance segmentation
 
 * [Cityscapes Instance Segmentation](https://www.cityscapes-dataset.com/benchmarks/#instance-level-scene-labeling-task)
+
+### Pose estimation
+
+* [VideoPose](http://bensapp.github.io/videopose-dataset.html)
+* [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/)
