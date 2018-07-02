@@ -34,3 +34,4 @@ to draw the attention of contributors.
 
 * [VideoPose](http://bensapp.github.io/videopose-dataset.html)
 * [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/)
+* [DensePose](https://github.com/facebookresearch/DensePose)

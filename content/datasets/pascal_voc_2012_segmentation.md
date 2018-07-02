@@ -2,27 +2,27 @@
 
 ### Description
 
-* [Link to the corresponding paper](https://arxiv.org/abs/0000.00000)
-* [Link to the official website](https://)
+* [Paper](https://link.springer.com/content/pdf/10.1007/s11263-009-0275-4.pdf)
+* [Website](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/htmldoc/devkit_doc.html#SECTION00060000000000000000)
+* [Evaluation server (registration required)](http://host.robots.ox.ac.uk:8080/)
 
-Brief description of the dataset and evaluation procedures for it.
+RGB images with corresponding pixel-wise annotations.
+Images are containing realistic everyday scenes.
+
+For evaluation the usual metric is mean Intersection over Union (mIoU).
 
 ### Downloads
 
+* [Train and validation sets](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/VOCtrainval_11-May-2012.tar)
+
 ### Technical details
 
-* Number of samples
-* Spatial resolution
-* Data format
-* Size on disk
-* Statistics (e.g. class distribution)
+Available data is split into **train** and **val** sets,
+containing 1464 and 1449 images respectively.
 
-Examples and figures should be uploaded in `content/images/`.
-
-### Format
-
-Description of file structure and naming convention.
-Index and labeling file formats descriptions.
+* 20 class labels + background + unlabeled
+* Median number of pixels: 187500, 90% of images have between 147000 and 200000 pixels
+* Median height-to-width ratio is 0.75, 90% of images have between 0.66 and 1.5.
 
 ### Resources
 
@@ -30,6 +30,6 @@ Links to helper scripts for extraction/transformation/visualization.
 
 | Link | Description |
 |:-----|:------------|
-| [Cityscapes Scripts](https://github.com/mcordts/cityscapesScripts) | A collection of scripts for inspection, preparation, and evaluation. |
+| [Dataset scripts](https://github.com/warmspringwinds/tf-image-segmentation/blob/master/tf_image_segmentation/utils/pascal_voc.py) | A collection of utility functions in Python |
 
 ### Demo
