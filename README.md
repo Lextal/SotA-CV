@@ -58,6 +58,7 @@ Added the best performing architectures from the last years.
 * Image inpainting
 * Trajectory prediction
 * Image warping
+* Image Quality Assessment(content/image_quality_assessment.md)
 
 
 ### Contributions
