@@ -10,7 +10,7 @@ ground truth and the predicted quality scores
 * Spearman Rank Order Correlation Coefficient (SROCC): The SROCC measures the monotonic
 relationship between ground-truth and estimation
 
-*refer here(https://arxiv.org/pdf/1707.08347.pdf)
+*refer here(https://arxiv.org/abs/1707.08347)
 
 
 ## Results
@@ -18,17 +18,15 @@ relationship between ground-truth and estimation
 
 ### LIVE — Testing set
 
-[Dataset description](datasets/pascal_voc_2012_segmentation.md)
 
 | Model | LCC | SROCC | Weights | Paper | Code |
 |:------|:-----|:-----|:--------|:------|:-----|
-| VGG-16                | 0.973 | 0.974 |  [model](https://github.com/xialeiliu/RankIQA/blob/master/pre-trained)|[paper](https://arxiv.org/pdf/1707.08347.pdf) | [Caffe](https://github.com/xialeiliu/RankIQA) |
+| VGG-16                | 0.973 | 0.974 |  [Caffe](https://github.com/xialeiliu/RankIQA/blob/master/pre-trained)|[paper](https://arxiv.org/abs/1707.08347) | [Caffe](https://github.com/xialeiliu/RankIQA) |
 
 
 ### TID 2013 — Testing set
 
-[Dataset description](datasets/pascal_voc_2012_segmentation.md)
 
 | Model | LCC | SROCC | Weights | Paper | Code |
 |:------|:-----|:-----|:--------|:------|:-----|
-| VGG-16                | NA | 0.780 |  [model](https://github.com/xialeiliu/RankIQA/blob/master/pre-trained)|[paper](https://arxiv.org/pdf/1707.08347.pdf) | [Caffe](https://github.com/xialeiliu/RankIQA) |
+| VGG-16                | N/A | 0.780 |  [Caffe](https://github.com/xialeiliu/RankIQA/blob/master/pre-trained)|[paper](https://arxiv.org/abs/1707.08347) | [Caffe](https://github.com/xialeiliu/RankIQA) |
