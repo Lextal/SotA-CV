@@ -17,7 +17,6 @@ to draw the attention of contributors.
 
 ### Object detection
 
-* [COCO Detection Challenge 2018](http://cocodataset.org/#detection-2018)
 * [PASCAL VOC Detection Competition](http://host.robots.ox.ac.uk/pascal/VOC/voc2012/)
 
 ### Semantic segmentation
@@ -35,3 +34,7 @@ to draw the attention of contributors.
 * [VideoPose](http://bensapp.github.io/videopose-dataset.html)
 * [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/)
 * [DensePose](https://github.com/facebookresearch/DensePose)
+
+### Monocular depth estimation
+* [KITTI](http://www.cvlibs.net/datasets/kitti/eval_depth.php?benchmark=depth_prediction)
+* [NYU Depth v2](https://cs.nyu.edu/~silberman/datasets/nyu_depth_v2.html)
