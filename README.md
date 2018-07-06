@@ -7,36 +7,29 @@ Unlike other attempts in collaborative tracking of research progress,
 this repository provides aggregate results of quantitative evaluation. 
 Such practice allows to greatly simplify both the initial literature search and preparing a comparative study of your own results.
 
-### Recently added
-
-* [Object detection](content/object_detection.md) + datasets
-* [Image Quality Assessment](content/image_quality_assessment.md)
-* [Semantic segmentation](content/semantic_segmentation.md) + datasets
-
-Covered most of the general-purpose benchmarks.
-Added the best performing architectures from the last years.
-
-* [PASCAL VOC 2012 Segmentation Competition](content/datasets/pascal_voc_2012_segmentation.md)
-* [COCO Dataset 2016 — Detection](content/datasets/coco_detection.md)]
+## Tasks
 
 ### Contents
 
+* [Semantic segmentation](content/semantic_segmentation.md)
+* [Object detection](content/object_detection.md)
+* [Monocular depth estimation](content/depth_estimation.md)
+* [Image classification](content/image_classification.md)
+* [Pose estimation](content/pose_estimation.md)
+* [Image Quality Assessment](content/image_quality_assessment.md)
+
+### TODO
+
+* Semi-supervised classification
+* Weakly-supervised semantic segmentation
 * Scene recognition
 * Action recognition
 * Shape recognition
-* [Pose estimation](content/pose_estimation.md)
-* [Object detection](content/object_detection.md)
-* [Image classification](content/image_classification.md)
-* [Semi-supervised learning](content/semi_supervised_learning.md)
-* [Weakly supervised learning](content/weakly_supervised_learning.md)
-* [Semantic segmentation](content/semantic_segmentation.md)
-* Instance segmentation
 * Face recognition
 * Face alignment
-* Human parsing
 * Keypoint and landmark detection
-* [Domain adaptation](content/domain_adaptation.md)
-* [Image superresolution](content/image_superresolution.md)
+* Instance segmentation
+* Human parsing
 * Saliency detection
 * Structure from motion
 * Image captioning
@@ -45,14 +38,11 @@ Added the best performing architectures from the last years.
 * Object localization
 * Optical character recognition
 * Image representations and feature learning
-* [Alpha matting](content/alpha_matting.md)
-* [Adversarial attacks and defences](content/adversarial_attacks_and_defences.md)
 * Medical imaging
 * Image co-segmentation
 * Visual tracking
 * Visual question answering
 * Optical flow estimation
-* Depth estimation
 * Image retrieval
 * Stereo matching
 * Image synthesis
@@ -60,10 +50,22 @@ Added the best performing architectures from the last years.
 * Image inpainting
 * Trajectory prediction
 * Image warping
-* [Image Quality Assessment](content/image_quality_assessment.md)
+* Domain adaptation
+* Adversarial attacks and defences
+
+## Datasets
+
+### Contents
+
+* [PASCAL VOC 2012 — Semantic Segmentation](content/datasets/pascal_voc_2012_segmentation.md)
+* [ADE20K](content/datasets/ade20k.md)
+* [Cityscapes — Semantic Segmentation](content/datasets/cityscapes_semantic.md)
+* [PASCAL Context](content/datasets/pascal_context.md)
+* [COCO — Detection 2016](content/datasets/coco_detection.md)
 
 
-### Contributions
+
+## Contributions
 
 Pull requests are most welcome. To make the material more coherent,
 please follow the examples in [dataset](dataset_template.md) and [problem](problem_template.md) templates.
