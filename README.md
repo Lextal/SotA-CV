@@ -9,13 +9,15 @@ Such practice allows to greatly simplify both the initial literature search and 
 
 ### Recently added
 
-* [Semantic segmentation](content/semantic_segmentation.md)
+* [Object detection](content/object_detection.md) + datasets
+* [Image Quality Assessment](content/image_quality_assessment.md)
+* [Semantic segmentation](content/semantic_segmentation.md) + datasets
 
 Covered most of the general-purpose benchmarks.
 Added the best performing architectures from the last years.
 
 * [PASCAL VOC 2012 Segmentation Competition](content/datasets/pascal_voc_2012_segmentation.md)
-
+* [COCO Dataset 2016 — Detection](content/datasets/coco_detection.md)]
 
 ### Contents
 

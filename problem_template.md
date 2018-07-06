@@ -25,7 +25,11 @@ if needed, the metrics for each dataset.
 |:------|:-----:|:--------|:------|:-----|
 | Model name | 0.5 | [link to the weights of a trained model]() | [paper](https://arxiv.org/abs/0000.00000) | [link to implementation]() |
 
-### Resources
+## Resources
 
-This is an appropriate section for adding links to relevant material,
-e.g. books, courses, blog posts, etc.
+This is an appropriate section for adding links to relevant material.
+Please include the links in the titles.
+
+| Title | Type | Description |
+|:------|:----:|:------------|
+| [Deep Learning](http://www.deeplearningbook.org/) | Book | A comprehensive textbook by Ian Goodfellow, Yoshua Bengio and Aaron Courville intended for entry-level students and practitioners. |
