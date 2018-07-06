@@ -12,9 +12,9 @@ Such practice allows to greatly simplify both the initial literature search and 
 ### Contents
 
 * [Semantic segmentation](content/semantic_segmentation.md)
+* [Image classification](content/image_classification.md)
 * [Object detection](content/object_detection.md)
 * [Monocular depth estimation](content/depth_estimation.md)
-* [Image classification](content/image_classification.md)
 * [Pose estimation](content/pose_estimation.md)
 * [Image Quality Assessment](content/image_quality_assessment.md)
 
